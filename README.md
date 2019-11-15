@@ -38,11 +38,11 @@
   </tr>
   <tr>
     <td>
-      <strong>결과 발표</strong><br>
+      <strong>수상자 발표</strong><br>
       2019년 12월 3일(화)
     </td>
     <td>
-     개별 안내<br>
+     개별 결과 발표 <br> 및 접수처 홈페이지를 통해 수상자 발표<br>
      
     </td>
   </tr>
