@@ -73,7 +73,8 @@
 
 
 ## 문의 
--ai.ideachallenge@gmail.com
+해커톤 관련 문의는 아래 메일을 통해 문의 주시길 바랍니다.
+- ai.ideachallenge@gmail.com
 
 
 
