@@ -71,36 +71,51 @@
      아이디어 실현(구현) 가능성
     </td>
     <td style="text-align:center">- 아이디어의 실현 가능성<br>
-    - 알고리즘 개발 용이성 및 상용화 </td>
+    - 알고리즘 개발 용이성 및 상용화 가능성</td>
     <td>
-      참가 신청 마감
+      25
     </td>
   </tr>
   <tr>
     <td>
       아이디어 독창성
     </td>
-    <td style="text-align:center">2주</td>
+    <td style="text-align:center">- 기존 타 경진대회 아이디어와 차별점<br>- 산업,사회 혁신 가능성<br>- 다양한 분야의 적용가능성</td>
     <td>
-      온라인<br>
-      <a href="https://hack.nsml.navercorp.com">https://hack.nsml.navercorp.com</a>
+      20
     </td>
   </tr>
   <tr>
     <td>
-      <strong>결선</strong><br>
-      2018년 4월 26일(목)~4월 27일(금)
+      <strong>데이터셋</strong><br>
     </td>
-    <td style="text-align:center">1박 2일</td>
+    <td style="text-align:center">- 데이터 확보의 용이성<br>- 데이터 셋 구축.공개 가능성 </td>
     <td>
-      네이버 커넥트원(춘천)<br>
+      20
+    </td>
+  </tr>
+  <tr>
+    <td>
+     기대 효과
+    </td>
+    <td style="text-align:center">- 채택된 아이디어 기반 제품.서비스가 잠재적으로 보유한 사회적.경제적 효과성</td>
+    <td>
+     30
+    </td>
+   </tr>
+  </tr>
+  <tr>
+    <td>
+     사회적 가치
+    </td>
+    <td style="text-align:center">- 산업(산업재해 등), 사회(소방 등) 등 현안문제 해결 가능성
+   </td>
+    <td>
+      5
     </td>
   </tr>
 </table>
-1.	아이디어 실현 가능성
-2.	데이터셋의 구축 현실성 
-3.	평가 척도의 우수성 및 순위 평가 방법의 현실성
-4.	아이디어의 참신성  
+
 * 인공지능 전문가(5인 이상)를 통해 총 100점 만점으로 정성평가 수행 <br>
 ** 심사위원점수중최고/최저점수를제외한나머지점수산술평균(소수점이하셋째자리에서반올림)<br>
 *** 동점자인경우기대효과→아이디어실현(구현)가능성→데이터셋→아이디어 독창성순으로<br>
