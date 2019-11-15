@@ -68,18 +68,17 @@
   </tr>
   <tr>
     <td>
-      <strong>참가 신청</strong><br>
-      2018년 3월 12일(월)~3월 25일(일)
+     아이디어 실현(구현) 가능성
     </td>
-    <td style="text-align:center">2주</td>
+    <td style="text-align:center">- 아이디어의 실현 가능성<br>
+    - 알고리즘 개발 용이성 및 상용화 </td>
     <td>
       참가 신청 마감
     </td>
   </tr>
   <tr>
     <td>
-      <strong>예선</strong><br>
-      2018년 4월 2일(월)~4월 16일(월)
+      아이디어 독창성
     </td>
     <td style="text-align:center">2주</td>
     <td>
