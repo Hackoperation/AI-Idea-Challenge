@@ -59,6 +59,45 @@
 
 
 ## 평가 기준
+
+<table class="tbl_schedule">
+  <tr>
+    <th style="text-align:left;width:50%">평가 기준</th>
+    <th style="text-align:center;width:15%">세부 내용</th>
+    <th style="text-align:left;width:35%">배점</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>참가 신청</strong><br>
+      2018년 3월 12일(월)~3월 25일(일)
+    </td>
+    <td style="text-align:center">2주</td>
+    <td>
+      참가 신청 마감
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>예선</strong><br>
+      2018년 4월 2일(월)~4월 16일(월)
+    </td>
+    <td style="text-align:center">2주</td>
+    <td>
+      온라인<br>
+      <a href="https://hack.nsml.navercorp.com">https://hack.nsml.navercorp.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>결선</strong><br>
+      2018년 4월 26일(목)~4월 27일(금)
+    </td>
+    <td style="text-align:center">1박 2일</td>
+    <td>
+      네이버 커넥트원(춘천)<br>
+    </td>
+  </tr>
+</table>
 1.	아이디어 실현 가능성
 2.	데이터셋의 구축 현실성 
 3.	평가 척도의 우수성 및 순위 평가 방법의 현실성
