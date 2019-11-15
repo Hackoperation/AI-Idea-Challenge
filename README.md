@@ -1,1 +1,1 @@
-# AI-Idea-Challenge
+# AI-아이디어 경진대회
