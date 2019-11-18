@@ -1,3 +1,7 @@
+ <img src="res/facebookposter.jpg" ><br>
+
+
+
 # AI 아이디어 경진대회
 
 분야에 관계없이 AI기술, 산업의 발전에 도움이 되거나<br>
