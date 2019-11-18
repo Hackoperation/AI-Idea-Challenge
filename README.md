@@ -1,4 +1,4 @@
- <img src="res/facebookposter.jpg" ><br>
+ <img src="facebookposter.jpg" ><br>
 
 
 
